@@ -1,4 +1,3 @@
-A Looking Machine
 Lensmen is a looking machine. You paste a claim — any statement, report, attribution, or
 situation you want to understand better — and it looks at it hard, from seventeen distinct angles
 simultaneously, against everything in the open record.
